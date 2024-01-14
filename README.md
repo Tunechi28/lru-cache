@@ -12,3 +12,4 @@ go run main.go
     - add value
     - remove value
     - display
+5. The program will run until you enter the command "exit"
